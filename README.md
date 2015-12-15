@@ -1,7 +1,7 @@
 Slim Unit Testing Example [![Build Status](https://travis-ci.org/there4/slim-unit-testing-example.png?branch=master)](https://travis-ci.org/there4/slim-unit-testing-example) [![Code Climate](https://codeclimate.com/github/there4/slim-unit-testing-example/badges/gpa.svg)](https://codeclimate.com/github/there4/slim-unit-testing-example)
 ================================================================================
 > Integration and unit testing a Slim PHP application
-
+   
 This is a sample application to show an approach to integration and unit testing
 a [Slim][slim] application. To skip to the heart of this, go check out the
 [testing bootstrap][bootstrap]. It sets a mock environment and provides some
